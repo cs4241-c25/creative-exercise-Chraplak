@@ -1,0 +1,13 @@
+{
+  "name": "cs4241-c25-creative-exercise",
+  "version": "0.1.0",
+  "description": "WPI CS4241-C25 Creative Exercise",
+  "author": "Camren Chraplak",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "node": "^22.14.0"
+  }
+}
